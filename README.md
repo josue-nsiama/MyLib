@@ -1,2 +1,3 @@
 # MyLib
-*This is a lttle library in C++*
+*This is a little library in C++*
+
